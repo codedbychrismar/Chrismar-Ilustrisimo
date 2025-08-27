@@ -53,9 +53,6 @@ With experience in both front-end and back-end development, I enjoy solving prob
 
 ---
 
-## 👀 Profile Visits  
-[![](https://visitcount.itsvg.in/api?id=codedbychrismar&icon=0&color=0)](https://visitcount.itsvg.in)  
 
----
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
