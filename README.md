@@ -43,16 +43,4 @@ With experience in both front-end and back-end development, I enjoy solving prob
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </div>  
 
----
 
-## 📊 GitHub Stats  
-<div align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=codedbychrismar&theme=dark&hide_border=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedbychrismar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160"/>
-</div>  
-
----
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
